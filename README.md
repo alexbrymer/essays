@@ -4,7 +4,7 @@
 <var id="Q384460"></var>
 
 
-# Sensitive Plant essay that i copied
+# Sensitive Plant essay that i copied - updated
 
 At first glance, Mimosa pudica is a plant that most people would consider a weed. It grows close to the ground, with countless delicate leaflets, puffy pinkish balls of flowers, and small bunches of legumes. So it makes sense that Mimosa pudica would be known as the “Humble Plant,” but what about its association with other names, like “Herb of Love” and “Sensitive Plant”?
 
@@ -29,3 +29,6 @@ You may unsubscribe at any time by clicking on the provided link on any marketin
 Plants have their own kind of agency, as the story of Mimosa pudica makes clear. They move, curling up to avoid threats and learning which actions best serve them. They also move across oceans and continents, transported by humans inspired by their curious behavior and extraordinary properties.
 
 Plants are agents in an ever-changing and complex world, as the interdisciplinary Plant Humanities Initiative explores through case studies like Mimosa pudica. As humans with unprecedented knowledge of these global dynamics and complexities, we owe it to plants to consider their role in our shared natural and cultural systems.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU2OTg2MDUyXX0=
+-->
