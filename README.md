@@ -1,4 +1,7 @@
-# Testing Visual Essay
+<var data-essay data-layout="vtl"></var>
+<var data-map></var>
+
+# Sensitive Plant essay that i copied
 
 At first glance, Mimosa pudica is a plant that most people would consider a weed. It grows close to the ground, with countless delicate leaflets, puffy pinkish balls of flowers, and small bunches of legumes. So it makes sense that Mimosa pudica would be known as the “Humble Plant,” but what about its association with other names, like “Herb of Love” and “Sensitive Plant”?
 
