@@ -2,7 +2,6 @@
 <var data-map></var>
 <var id="jwd:Q148532" data-aliases="humble plant"></var>
 <var id="Q384460"></var>
-<var 
 
 
 # Sensitive Plant essay that i copied - updated
@@ -31,5 +30,5 @@ Plants have their own kind of agency, as the story of Mimosa pudica makes clear.
 
 Plants are agents in an ever-changing and complex world, as the interdisciplinary Plant Humanities Initiative explores through case studies like Mimosa pudica. As humans with unprecedented knowledge of these global dynamics and complexities, we owe it to plants to consider their role in our shared natural and cultural systems.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTQxMjUwN119
+eyJoaXN0b3J5IjpbMTU2OTg2MDUyXX0=
 -->
