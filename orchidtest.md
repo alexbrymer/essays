@@ -1,7 +1,8 @@
+<var data-essay data-layout="vtl" title="Stanhopea Orchids"></var>
 <var id=“Q407971”></var>
 <var id="Q3783"></var>
 
-##Stanhopea Orchids
+## Stanhopea Orchids
 
 In January 1956, the British artist, explorer, and environmentalist Margaret Mee (1909–1988) undertook a dangerous journey deep into the Amazon. Her goal was to document rare Amazonian plants in their natural habitats. This trip would be the first of many for Mee, who carried out a total of fifteen expeditions between 1956 and 1988. Her 1957 orchid painting of Stanhopea graveolens in the Dumbarton Oaks Rare Book Collection is just one example of the many rare and beautiful plant portraits Mee painted.
 
