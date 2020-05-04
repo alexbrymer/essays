@@ -1,7 +1,7 @@
 <var data-essay
     data-layout="vtl"
     title="Stanhopea Orchids"
-    data-banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Stanhopea_tigrina_Orchi_2012-07-24_001.jpg/1024px-Stanhopea_tigrina_Orchi_2012-07-24_001.jpg"></var>
+    data-banner="https://daily.jstor.org/wp-content/uploads/2020/04/plant_of_the_month_stanhopea_orchids_1050x700.jpg"></var>
 <var data-map data-center="Q3783"></var>
 <var id="Q407971" data-aliases="Mee"></var>
 <var id="Q3783"></var>
