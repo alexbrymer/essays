@@ -1,4 +1,5 @@
 <var data-essay data-layout="vtl" title="Stanhopea Orchids"></var>
+<var data-map data-center="Q3783"></var>
 <var id=“Q407971”></var>
 <var id="Q3783"></var>
 
