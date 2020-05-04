@@ -2,7 +2,7 @@
     data-layout="vtl"
     title="Stanhopea Orchids"
     data-banner="https://daily.jstor.org/wp-content/uploads/2020/04/plant_of_the_month_stanhopea_orchids_1050x700.jpg"></var>
-    
+  <var data-map data-center="Q3783"></var>  
 <var id="Q407971" data-aliases="Mee"></var>
 <var id="Q3783"></var>
 
