@@ -15,9 +15,30 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:1810.994873046875,998.2973022460938,245.164306640625,291.34393310546875"
       },
+      "id": "/alexbrymer/essays/4f898159"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "/annotation/alexbrymer/essays4f898159/d14695a2"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "These are windows.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.jstor.org/iiif/2018/08/28/15/aed58dd5-a0c5-4f2e-bbc6-7d1fc4d95234_deflate.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:95.020751953125,214.391845703125,175.1318359375,110.58633422851562"
+      },
       "id": "4f898159"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "d14695a2"
+    "id": "07aab099"
   }
 ]
